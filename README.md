@@ -297,7 +297,7 @@ System.out.println(s);
 }
 ```
 
-12. Write a Java Program to sort the elements of an array in Ascending Order.
+## 12. Write a Java Program to sort the elements of an array in Ascending Order.
 
 ```java
 import java.util.Scanner;
@@ -332,8 +332,11 @@ int arr[] = new int[10];
     }
 
 }
+```
 
-// Practical 13
+## 13. Write a Java Program to create a Student class and generate result of student (Total, Per, Grade).
+
+```java
 import java.util.Scanner;
 
 class Student
@@ -424,8 +427,11 @@ s1.result();
 s1.grade();
 }
 }
+```
 
-// Practical 14
+## 14. Write a Java Program to create an Employee class and generate Salary Slip for the employee.
+
+```java
 import java.util.Scanner;
 
 class empsalary
@@ -440,7 +446,7 @@ System.out.println("\t\t"+s);
 }
 void underline()
 {
-System.out.println("--------------------------------------------------------------");
+System.out.println("-----------------------------------------------");
 }
 void getdata()
 {
@@ -516,7 +522,11 @@ emp2.nesting();
 emp3.nesting();
 }
 }
-// Practical 15
+```
+
+## 15. Write a java program which shows the use of Static Members.
+
+```java
 import java.util.Scanner;
 
 class staticmembers {
@@ -540,8 +550,11 @@ String a = staticmembers.sem;
 System.out.println("Your semester of BCA is:-" + a);
 }
 }
+```
 
-// Practical 16
+## 16. Write a java program which shows the Nesting of Methods.
+
+```java
 import java.util.Scanner;
 
 class nesting {
@@ -575,8 +588,11 @@ nesting n1 = new nesting();
 n1.nestingmethod();
 }
 }
+```
 
-// Practical 17
+## 17. Write a java program which shows the use of Methods Overloading.
+
+```java
 class overloading {
 int x, y;
 
@@ -600,8 +616,11 @@ o1.mul(4);
 o1.mul(5, 6);
 }
 }
+```
 
-// Practical 18
+## 18. Write a java program which implements the Default Constructors.
+
+```java
 class dconstructor {
 dconstructor() {
 System.out.println("Hi!!! kds I am default constructor");
@@ -613,8 +632,11 @@ public static void main(String args[]) {
 dconstructor d1 = new dconstructor();
 }
 }
+```
 
-// Practical 19
+## 19. Write a java program which implements the Parameterized Constructors.
+
+```java
 class pconstructor {
 pconstructor(int x, int y) {
 System.out.println("Hi! I am parameterized constructor");
@@ -635,8 +657,11 @@ public static void main(String args[]) {
 pconstructor p1 = new pconstructor(10, 20);
 }
 }
+```
 
-// Practical 20
+## 20. Write a java program which implements the Overloading of Constructors.
+
+```java
 class oconstructor {
 oconstructor() {
 System.out.println("Hi! I am default constructor");
@@ -669,7 +694,11 @@ oconstructor o2 = new oconstructor(4);
 oconstructor o3 = new oconstructor(4, 5);
 }
 }
-// Practical 21
+```
+
+## 21. Write a java program which explains the concept of Single Inheritance.
+
+```java
 import java.util.Scanner;
 
 class Singleinheritance
@@ -713,7 +742,11 @@ s1.student();
 s1.extra();
 }
 }
-// Practical 22
+```
+
+## 22. Write a java program which explains the concept of Multilevel Inheritance.
+
+```java
 import java.util.Scanner;
 
 class ClassA {
@@ -760,7 +793,11 @@ c1.total();
 c1.extra();
 }
 }
-// Practical 23
+```
+
+## 23. Write a java program which explains the concept of Hierarchical Inheritance
+
+```java
 import java.util.Scanner;
 
 class Grandfather {
@@ -836,19 +873,19 @@ d1.uncle();
 d1.daughter();
 }
 }
+```
 
-// Practical 24
+## 24. Write a java program which shows the Method Overriding.
+
+```java
 class Super {
 int x;
-
     Super(int a) {
         x = a;
     }
-
     void display() {
         System.out.println("Super x:" + x);
     }
-
 }
 
 class Sub extends Super {
@@ -872,8 +909,11 @@ Sub s1 = new Sub(100, 200);
 s1.display();
 }
 }
+```
 
-// Practical 25
+## 25. Write a Java Program to implement final class and final method.
+
+```java
 class Superr {
 final int x;
 
@@ -909,8 +949,11 @@ Subb s1 = new Subb(100, 300);
 s1.display();
 }
 }
+```
 
-// Practical 26
+## 26. Write a Java Program to implement abstract class and abstract method.
+
+```java
 abstract class Super {
 int x;
 
@@ -945,8 +988,11 @@ Sub s1 = new Sub(100, 200);
 s1.display();
 }
 }
+```
 
-// Practical 27
+## 27. Write a java program which implements Interface.
+
+```java
 interface Area {
 final static float pi = 3.14f;
 
@@ -981,8 +1027,11 @@ Circle c1 = new Circle();
     }
 
 }
+```
 
-// Practical 28
+## 28. Write a java program which implements Multiple Interfaces.
+
+```java
 class Student {
 int rno;
 
@@ -1046,9 +1095,37 @@ s1.getmarks(50.50f, 60.60f);
 s1.display();
 }
 }
+```
 
-// Practical 29
-// Practical 30
+## 29. Write a java program which shows importing of classes from other packages.
+
+> Save as java29.java
+
+```java
+import pack1.*;
+public class java29 {
+    public static void main(String[] args) {
+        java29part2 obj = new java29part2();
+        obj.msg();
+    }
+}
+```
+
+> Save as java29part2.java
+
+```java
+package pack1;
+public class java29part2 {
+    public void msg() {
+        System.out.println("Hello");
+    }
+}
+
+```
+
+## 30. Write a Java Program to implement the methods of Math Class.
+
+```java
 import java.util.Scanner;
 
 class java30 {
@@ -1107,8 +1184,11 @@ double x, z = 30;
     }
 
 }
+```
 
-// Practical 31
+## 31. Write a Java Program to implement the methods of String Class.
+
+```java
 import java.lang.\*;
 
 class java31 {
@@ -1170,7 +1250,11 @@ String s1 = "Java";
     }
 
 }
-// Practical 32
+```
+
+## 32. Write a Java Program to implement the methods of Vector Class.
+
+```java
 import java.util.\*;
 
 public class java32n {
@@ -1191,8 +1275,11 @@ Vector v1 = new Vector();
     }
 
 }
+```
 
-// Practical 33
+## 33. Write a Java Program to implement the methods of Stack Class.
+
+```java
 import java.util.\*;
 
 public class java33
@@ -1222,37 +1309,52 @@ Stack st = new Stack();
 
 }
 }
-// Practical 34
-import java.io.\*;
+```
+
+## 34. Write a Java Program which will read a text and count all occurrences of a particular word.
+
+```java
+import java.io.*;
 
 class java34 {
 public static void main(String as[]) throws Exception {
 InputStreamReader isr = new InputStreamReader(System.in);
 BufferedReader br = new BufferedReader(isr);
+
 int i = 0, count = 0;
 String text = "", s = "";
+
 System.out.println("Enter Text:(press ENTER twice to stop)\n");
+
 s = br.readLine();
+
 while (s.length() != 0) {
 text += s;
 s = br.readLine();
 }
+
 System.out.println("Enter search word:");
 s = br.readLine();
+
 while (true) {
 i = text.indexOf(s, i);
+
 if (i == -1)
 break;
 System.out.println("Word found at position:" + i);
 count++;
 i += s.length();
 }
+
 System.out.println("Number of occurrences of given word:" + count);
 }
 
 }
+```
 
-// Practical 35
+## 35. Write a Java Program which will read a string and rewrite it in the alphabetical order. eg.The word “STRING” should be written a “GINRST”.
+
+```java
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -1266,8 +1368,11 @@ Arrays.sort(charArray);
 System.out.println(new String(charArray));
 }
 }
+```
 
-// Practical 36
+## 36. Write a java program which creates threads using the Thread Class.
+
+```java
 class A extends Thread {
 public void run() {
 for (int i = 1; i <= 5; i++) {
@@ -1302,8 +1407,11 @@ new B().start();
 new C().start();
 }
 }
+```
 
-// Practical 37
+## 37. Write a java program which shows the use of yield(), stop() and sleep() Methods.
+
+```java
 class A extends Thread {
 public void run() {
 for (int i = 1; i <= 5; i++) {
@@ -1366,8 +1474,11 @@ public static void main(String args[]) {
     }
 
 }
+```
 
-// Practical 38
+## 38. Write a java program which shows the Priority in Threads.
+
+```java
 class A extends Thread {
 public void run() {
 System.out.println("ThreadA Started");
@@ -1422,8 +1533,11 @@ public static void main(String args[]) {
     }
 
 }
+```
 
-// Practical 39
+## 39. Write a java program which use of Runnable Interface.
+
+```java
 class X implements Runnable {
 public void run() {
 System.out.println("ThreadC Started");
@@ -1442,8 +1556,11 @@ threadX.start();
 System.out.println("End of main Thread");
 }
 }
+```
 
-// Practical 40
+## 40. Write a java program which uses try and catch for Exception Handling.
+
+```java
 class java40 {
 public static void main(String args[]) {
 int a = 10, b = 5, c = 5, x, y;
@@ -1458,8 +1575,11 @@ int a = 10, b = 5, c = 5, x, y;
     }
 
 }
+```
 
-// Practical 41
+## 41. Write a java program which uses Multiple catch Blocks.
+
+```java
 class java41 {
 public static void main(String args[]) {
 int a[] = { 5, 10 };
@@ -1479,8 +1599,11 @@ int b = 5;
     }
 
 }
+```
 
-// Practical 42
+## 42. Write a java program which uses finally Statement.
+
+```java
 class java42 {
 public static void main(String args[]) {
 int a[] = { 10, 10 };
@@ -1501,8 +1624,11 @@ int b = 10;
     }
 
 }
+```
 
-// Practical 43
+## 43. Write a java program which uses Nested try Statements.
+
+```java
 class java43 {
 public static void main(String args[]) {
 int a[] = { 10, 10 };
@@ -1529,8 +1655,11 @@ System.out.println("The answer:" + y);
     }
 
 }
+```
 
-// Practical 44
+## 44. Write a java program which shows throwing our own Exception.
+
+```java
 import java.lang.Exception;
 
 class MyException extends Exception {
@@ -1557,7 +1686,11 @@ int b = 500, c = 10;
     }
 
 }
-// Practical 45
+```
+
+## 45. Create an Applet program that print Hello Applet.
+
+```java
 import java.applet._;
 import java.awt._;
 
@@ -1568,8 +1701,11 @@ g.drawString("Hello Applet", 50, 50);
 }
 
 // <applet code="java45.class" width=300 height=300></applet>
+```
 
-// Practical 46
+## 46. Create an applet that use init(),start(),stop() and destroy() methods of applet.
+
+```java
 import java.applet.Applet;
 import java.awt.Graphics;
 
@@ -1595,7 +1731,11 @@ System.out.println("1.I am init()");
     }
 
 }
-// Practical 47
+```
+
+## 47. write an applet program to implement the concept of passing parameter to applet.
+
+```java
 import java.applet.Applet;
 import java.awt.Graphics;
 
@@ -1609,8 +1749,11 @@ g.drawString(str, 50, 50);
 // <applet code="java47.class" width="400" height="400">
 // <param name="msg" value="Welcome to applet">
 // </applet>
+```
 
-// Practical 48
+## 48. Write a applet program to implement various methods of Graphics class.
+
+```java
 import java.applet.Applet;
 import java.awt.\*;
 
@@ -1634,9 +1777,4 @@ public class java48 extends Applet {
     }
 
 }
-
-```
-
-```
-
 ```
