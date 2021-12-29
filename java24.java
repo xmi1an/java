@@ -1,38 +1,32 @@
-class Super
-{
+class Super {
 	int x;
-	Super(int a)
-	{
-		x=a;
+
+	Super(int a) {
+		x = a;
 	}
-	
-	void display()
-	{
-		System.out.println("Super x:"+x);				
+
+	void display() {
+		System.out.println("Super x:" + x);
 	}
 }
 
-class Sub extends Super
-{
+class Sub extends Super {
 	int y;
-	Sub(int a,int b)	
-	{
+
+	Sub(int a, int b) {
 		super(a);
-		y=b;
+		y = b;
 	}
-	void display()
-	{	
-		System.out.println("Super x:"+x);
-		System.out.println("Sub y:"+y);	
+
+	void display() {
+		System.out.println("Super x:" + x);
+		System.out.println("Sub y:" + y);
 	}
 }
 
-class java24
-{
-	public static void  main(String args[])
-	{
-		Sub s1=new Sub(100,200);
-		s1.display(); 
+class java24 {
+	public static void main(String args[]) {
+		Sub s1 = new Sub(100, 200);
+		s1.display();
 	}
 }
-
