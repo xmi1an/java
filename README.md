@@ -1,18 +1,18 @@
-[1. Write a Java Program find the area of circle.](1-write-a-java-program-find-the-area-of-circle)
+[1. Write a Java Program find the area of circle.](#1-write-a-java-program-find-the-area-of-circle)
 
-[2. Write a Java Program that will display factorial of the given number.](2-write-a-java-program-that-will-display-factorial-of-the-given-number)
+[2. Write a Java Program that will display factorial of the given number.](#2-write-a-java-program-that-will-display-factorial-of-the-given-number)
 
-[3. Write a Java Program that will find the largest no from the given two nos.](3-write-a-java-program-that-will-find-the-largest-no-from-the-given-two-nos)
+[3. Write a Java Program that will find the largest no from the given two nos.](#3-write-a-java-program-that-will-find-the-largest-no-from-the-given-two-nos)
 
-[4. Write a Java Program that will find the largest no from the given three nos.](4-write-a-java-program-that-will-find-the-largest-no-from-the-given-three-nos)
+[4. Write a Java Program that will find the largest no from the given three nos.](#4-write-a-java-program-that-will-find-the-largest-no-from-the-given-three-nos)
 
-[5. Write a Java Program that shows the use of switch Statement.](5-write-a-java-program-that-shows-the-use-of-switch-statement)
+[5. Write a Java Program that shows the use of switch Statement.](#5-write-a-java-program-that-shows-the-use-of-switch-statement)
 
-[6. Write a Java Program to find the sum of the digits of given number.](6-write-a-java-program-to-find-the-sum-of-the-digits-of-given-number)
+[6. Write a Java Program to find the sum of the digits of given number.](#6-write-a-java-program-to-find-the-sum-of-the-digits-of-given-number)
 
-[7. Write a Java Program that will display the Sum of 1+1/2+1/3.....+1/n.](7-write-a-java-program-that-will-display-the-sum-of-112131n)
+[7. Write a Java Program that will display the Sum of 1+1/2+1/3.....+1/n.](#7-write-a-java-program-that-will-display-the-sum-of-112131n)
 
-[8. Write a Java Program that check weather the given no is prime or not.](8-write-a-java-program-that-check-weather-the-given-no-is-prime-or-not)
+[8. Write a Java Program that check weather the given no is prime or not.](#8-write-a-java-program-that-check-weather-the-given-no-is-prime-or-not)
 
 [9. Write a Java Program that implements the use of break statement.]()
 
