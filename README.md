@@ -96,7 +96,7 @@
 
 ---
 
-## 1. Write a Java Program find the area of circle.
+### 1. Write a Java Program find the area of circle.
 
 ```java
 import java.util.Scanner;
@@ -126,7 +126,7 @@ c1.findarea();
 }
 ```
 
-## 2. Write a Java Program that will display factorial of the given number.
+### 2. Write a Java Program that will display factorial of the given number.
 
 ```java
 import java.util.Scanner;
@@ -156,7 +156,7 @@ f1.findarea();
 }
 ```
 
-## 3. Write a Java Program that will find the largest no from the given two nos.
+### 3. Write a Java Program that will find the largest no from the given two nos.
 
 ```java
 import java.util.Scanner;
@@ -185,7 +185,7 @@ Scanner in=new Scanner(System.in);
 }
 ```
 
-## 4. Write a Java Program that will find the largest no from the given three nos.
+### 4. Write a Java Program that will find the largest no from the given three nos.
 
 ```java
 import java.util.Scanner;
@@ -221,7 +221,7 @@ int a, b, c;
 }
 ```
 
-## 5. Write a Java Program that shows the use of switch Statement.
+### 5. Write a Java Program that shows the use of switch Statement.
 
 ```java
 import java.util.Scanner;
@@ -258,7 +258,7 @@ choice=in.nextInt();
 }
 ```
 
-## 6. Write a Java Program to find the sum of the digits of given number.
+### 6. Write a Java Program to find the sum of the digits of given number.
 
 ```java
 import java.util.Scanner;
@@ -282,7 +282,7 @@ int no, i, a, sum = 0;
 }
 ```
 
-## 7. Write a Java Program that will display the Sum of 1+1/2+1/3.....+1/n.
+### 7. Write a Java Program that will display the Sum of 1+1/2+1/3.....+1/n.
 
 ```java
 import java.util.Scanner;
@@ -304,7 +304,7 @@ Scanner in = new Scanner(System.in);
 }
 ```
 
-## 8. Write a Java Program that check weather the given no is prime or not.
+### 8. Write a Java Program that check weather the given no is prime or not.
 
 ```java
 import java.util.Scanner;
@@ -339,7 +339,7 @@ no=in.nextInt();
 }
 ```
 
-## 9. Write a Java Program that implements the use of break statement.
+### 9. Write a Java Program that implements the use of break statement.
 
 ```java
 import java.util.Scanner;
@@ -361,7 +361,7 @@ no = in.nextInt();
 }
 ```
 
-## 10. Write a Java Program that implements the use of continue statement.
+### 10. Write a Java Program that implements the use of continue statement.
 
 ```java
 import java.util.Scanner;
@@ -383,7 +383,7 @@ no = in.nextInt();
 }
 ```
 
-## 11. Write a Java Program that will accept Command-line Arguments and display the same.
+### 11. Write a Java Program that will accept Command-line Arguments and display the same.
 
 ```java
 class java11 {
@@ -395,7 +395,7 @@ System.out.println(s);
 }
 ```
 
-## 12. Write a Java Program to sort the elements of an array in Ascending Order.
+### 12. Write a Java Program to sort the elements of an array in Ascending Order.
 
 ```java
 import java.util.Scanner;
@@ -432,7 +432,7 @@ int arr[] = new int[10];
 }
 ```
 
-## 13. Write a Java Program to create a Student class and generate result of student (Total, Per, Grade).
+### 13. Write a Java Program to create a Student class and generate result of student (Total, Per, Grade).
 
 ```java
 import java.util.Scanner;
@@ -527,7 +527,7 @@ s1.grade();
 }
 ```
 
-## 14. Write a Java Program to create an Employee class and generate Salary Slip for the employee.
+### 14. Write a Java Program to create an Employee class and generate Salary Slip for the employee.
 
 ```java
 import java.util.Scanner;
@@ -622,7 +622,7 @@ emp3.nesting();
 }
 ```
 
-## 15. Write a java program which shows the use of Static Members.
+### 15. Write a java program which shows the use of Static Members.
 
 ```java
 import java.util.Scanner;
@@ -650,7 +650,7 @@ System.out.println("Your semester of BCA is:-" + a);
 }
 ```
 
-## 16. Write a java program which shows the Nesting of Methods.
+### 16. Write a java program which shows the Nesting of Methods.
 
 ```java
 import java.util.Scanner;
@@ -688,7 +688,7 @@ n1.nestingmethod();
 }
 ```
 
-## 17. Write a java program which shows the use of Methods Overloading.
+### 17. Write a java program which shows the use of Methods Overloading.
 
 ```java
 class overloading {
@@ -716,7 +716,7 @@ o1.mul(5, 6);
 }
 ```
 
-## 18. Write a java program which implements the Default Constructors.
+### 18. Write a java program which implements the Default Constructors.
 
 ```java
 class dconstructor {
@@ -732,7 +732,7 @@ dconstructor d1 = new dconstructor();
 }
 ```
 
-## 19. Write a java program which implements the Parameterized Constructors.
+### 19. Write a java program which implements the Parameterized Constructors.
 
 ```java
 class pconstructor {
@@ -757,7 +757,7 @@ pconstructor p1 = new pconstructor(10, 20);
 }
 ```
 
-## 20. Write a java program which implements the Overloading of Constructors.
+### 20. Write a java program which implements the Overloading of Constructors.
 
 ```java
 class oconstructor {
@@ -794,7 +794,7 @@ oconstructor o3 = new oconstructor(4, 5);
 }
 ```
 
-## 21. Write a java program which explains the concept of Single Inheritance.
+### 21. Write a java program which explains the concept of Single Inheritance.
 
 ```java
 import java.util.Scanner;
@@ -842,7 +842,7 @@ s1.extra();
 }
 ```
 
-## 22. Write a java program which explains the concept of Multilevel Inheritance.
+### 22. Write a java program which explains the concept of Multilevel Inheritance.
 
 ```java
 import java.util.Scanner;
@@ -893,7 +893,7 @@ c1.extra();
 }
 ```
 
-## 23. Write a java program which explains the concept of Hierarchical Inheritance
+### 23. Write a java program which explains the concept of Hierarchical Inheritance
 
 ```java
 import java.util.Scanner;
@@ -973,7 +973,7 @@ d1.daughter();
 }
 ```
 
-## 24. Write a java program which shows the Method Overriding.
+### 24. Write a java program which shows the Method Overriding.
 
 ```java
 class Super {
@@ -1009,7 +1009,7 @@ s1.display();
 }
 ```
 
-## 25. Write a Java Program to implement final class and final method.
+### 25. Write a Java Program to implement final class and final method.
 
 ```java
 class Superr {
@@ -1049,7 +1049,7 @@ s1.display();
 }
 ```
 
-## 26. Write a Java Program to implement abstract class and abstract method.
+### 26. Write a Java Program to implement abstract class and abstract method.
 
 ```java
 abstract class Super {
@@ -1088,7 +1088,7 @@ s1.display();
 }
 ```
 
-## 27. Write a java program which implements Interface.
+### 27. Write a java program which implements Interface.
 
 ```java
 interface Area {
@@ -1127,7 +1127,7 @@ Circle c1 = new Circle();
 }
 ```
 
-## 28. Write a java program which implements Multiple Interfaces.
+### 28. Write a java program which implements Multiple Interfaces.
 
 ```java
 class Student {
@@ -1195,7 +1195,7 @@ s1.display();
 }
 ```
 
-## 29. Write a java program which shows importing of classes from other packages.
+### 29. Write a java program which shows importing of classes from other packages.
 
 > Save as java29.java
 
@@ -1221,7 +1221,7 @@ public class java29part2 {
 
 ```
 
-## 30. Write a Java Program to implement the methods of Math Class.
+### 30. Write a Java Program to implement the methods of Math Class.
 
 ```java
 import java.util.Scanner;
@@ -1284,7 +1284,7 @@ double x, z = 30;
 }
 ```
 
-## 31. Write a Java Program to implement the methods of String Class.
+### 31. Write a Java Program to implement the methods of String Class.
 
 ```java
 import java.lang.\*;
@@ -1350,7 +1350,7 @@ String s1 = "Java";
 }
 ```
 
-## 32. Write a Java Program to implement the methods of Vector Class.
+### 32. Write a Java Program to implement the methods of Vector Class.
 
 ```java
 import java.util.\*;
@@ -1375,7 +1375,7 @@ Vector v1 = new Vector();
 }
 ```
 
-## 33. Write a Java Program to implement the methods of Stack Class.
+### 33. Write a Java Program to implement the methods of Stack Class.
 
 ```java
 import java.util.\*;
@@ -1409,7 +1409,7 @@ Stack st = new Stack();
 }
 ```
 
-## 34. Write a Java Program which will read a text and count all occurrences of a particular word.
+### 34. Write a Java Program which will read a text and count all occurrences of a particular word.
 
 ```java
 import java.io.*;
@@ -1450,7 +1450,7 @@ System.out.println("Number of occurrences of given word:" + count);
 }
 ```
 
-## 35. Write a Java Program which will read a string and rewrite it in the alphabetical order. eg.The word “STRING” should be written a “GINRST”.
+### 35. Write a Java Program which will read a string and rewrite it in the alphabetical order. eg.The word “STRING” should be written a “GINRST”.
 
 ```java
 import java.util.Arrays;
@@ -1468,7 +1468,7 @@ System.out.println(new String(charArray));
 }
 ```
 
-## 36. Write a java program which creates threads using the Thread Class.
+### 36. Write a java program which creates threads using the Thread Class.
 
 ```java
 class A extends Thread {
@@ -1507,7 +1507,7 @@ new C().start();
 }
 ```
 
-## 37. Write a java program which shows the use of yield(), stop() and sleep() Methods.
+### 37. Write a java program which shows the use of yield(), stop() and sleep() Methods.
 
 ```java
 class A extends Thread {
@@ -1574,7 +1574,7 @@ public static void main(String args[]) {
 }
 ```
 
-## 38. Write a java program which shows the Priority in Threads.
+### 38. Write a java program which shows the Priority in Threads.
 
 ```java
 class A extends Thread {
@@ -1633,7 +1633,7 @@ public static void main(String args[]) {
 }
 ```
 
-## 39. Write a java program which use of Runnable Interface.
+### 39. Write a java program which use of Runnable Interface.
 
 ```java
 class X implements Runnable {
@@ -1656,7 +1656,7 @@ System.out.println("End of main Thread");
 }
 ```
 
-## 40. Write a java program which uses try and catch for Exception Handling.
+### 40. Write a java program which uses try and catch for Exception Handling.
 
 ```java
 class java40 {
@@ -1675,7 +1675,7 @@ int a = 10, b = 5, c = 5, x, y;
 }
 ```
 
-## 41. Write a java program which uses Multiple catch Blocks.
+### 41. Write a java program which uses Multiple catch Blocks.
 
 ```java
 class java41 {
@@ -1699,7 +1699,7 @@ int b = 5;
 }
 ```
 
-## 42. Write a java program which uses finally Statement.
+### 42. Write a java program which uses finally Statement.
 
 ```java
 class java42 {
@@ -1724,7 +1724,7 @@ int b = 10;
 }
 ```
 
-## 43. Write a java program which uses Nested try Statements.
+### 43. Write a java program which uses Nested try Statements.
 
 ```java
 class java43 {
@@ -1755,7 +1755,7 @@ System.out.println("The answer:" + y);
 }
 ```
 
-## 44. Write a java program which shows throwing our own Exception.
+### 44. Write a java program which shows throwing our own Exception.
 
 ```java
 import java.lang.Exception;
@@ -1786,7 +1786,7 @@ int b = 500, c = 10;
 }
 ```
 
-## 45. Create an Applet program that print Hello Applet.
+### 45. Create an Applet program that print Hello Applet.
 
 ```java
 import java.applet._;
@@ -1801,7 +1801,7 @@ g.drawString("Hello Applet", 50, 50);
 // <applet code="java45.class" width=300 height=300></applet>
 ```
 
-## 46. Create an applet that use init(),start(),stop() and destroy() methods of applet.
+### 46. Create an applet that use init(),start(),stop() and destroy() methods of applet.
 
 ```java
 import java.applet.Applet;
@@ -1831,7 +1831,7 @@ System.out.println("1.I am init()");
 }
 ```
 
-## 47. write an applet program to implement the concept of passing parameter to applet.
+### 47. write an applet program to implement the concept of passing parameter to applet.
 
 ```java
 import java.applet.Applet;
@@ -1849,7 +1849,7 @@ g.drawString(str, 50, 50);
 // </applet>
 ```
 
-## 48. Write a applet program to implement various methods of Graphics class.
+### 48. Write a applet program to implement various methods of Graphics class.
 
 ```java
 import java.applet.Applet;
