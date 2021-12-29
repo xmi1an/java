@@ -26,73 +26,73 @@
 
 [14. Write a Java Program to create an Employee class and generate Salary Slip for the employee.](#14-write-a-java-program-to-create-an-employee-class-and-generate-salary-slip-for-the-employee)
 
-[15. Write a java program which shows the use of Static Members.](https://github.com/xmi1an/java#15-write-a-java-program-which-shows-the-use-of-static-members)
+[15. Write a java program which shows the use of Static Members.](#15-write-a-java-program-which-shows-the-use-of-static-members)
 
-[16. Write a java program which shows the Nesting of Methods.](https://github.com/xmi1an/java#16-write-a-java-program-which-shows-the-nesting-of-methods)
+[16. Write a java program which shows the Nesting of Methods.](#16-write-a-java-program-which-shows-the-nesting-of-methods)
 
-[17. Write a java program which shows the use of Methods Overloading.](https://github.com/xmi1an/java#17-write-a-java-program-which-shows-the-use-of-methods-overloading)
+[17. Write a java program which shows the use of Methods Overloading.](#17-write-a-java-program-which-shows-the-use-of-methods-overloading)
 
-[18. Write a java program which implements the Default Constructors.](https://github.com/xmi1an/java#18-write-a-java-program-which-implements-the-default-constructors)
+[18. Write a java program which implements the Default Constructors.](#18-write-a-java-program-which-implements-the-default-constructors)
 
-[19. Write a java program which implements the Parameterized Constructors.](https://github.com/xmi1an/java#19-write-a-java-program-which-implements-the-parameterized-constructors)
+[19. Write a java program which implements the Parameterized Constructors.](#19-write-a-java-program-which-implements-the-parameterized-constructors)
 
-[20. Write a java program which implements the Overloading of Constructors.](https://github.com/xmi1an/java#20-write-a-java-program-which-implements-the-overloading-of-constructors)
+[20. Write a java program which implements the Overloading of Constructors.](#20-write-a-java-program-which-implements-the-overloading-of-constructors)
 
-[21. Write a java program which explains the concept of Single Inheritance.](https://github.com/xmi1an/java#21-write-a-java-program-which-explains-the-concept-of-single-inheritance)
+[21. Write a java program which explains the concept of Single Inheritance.](#21-write-a-java-program-which-explains-the-concept-of-single-inheritance)
 
-[22. Write a java program which explains the concept of Multilevel Inheritance.](https://github.com/xmi1an/java#22-write-a-java-program-which-explains-the-concept-of-multilevel-inheritance)
+[22. Write a java program which explains the concept of Multilevel Inheritance.](#22-write-a-java-program-which-explains-the-concept-of-multilevel-inheritance)
 
-[23. Write a java program which explains the concept of Hierarchical Inheritance.](https://github.com/xmi1an/java#23-write-a-java-program-which-explains-the-concept-of-hierarchical-inheritance)
+[23. Write a java program which explains the concept of Hierarchical Inheritance.](#23-write-a-java-program-which-explains-the-concept-of-hierarchical-inheritance)
 
-[24. Write a java program which shows the Method Overriding.](https://github.com/xmi1an/java#24-write-a-java-program-which-shows-the-method-overriding)
+[24. Write a java program which shows the Method Overriding.](#24-write-a-java-program-which-shows-the-method-overriding)
 
-[25. Write a Java Program to implement final class and final method.](https://github.com/xmi1an/java#25-write-a-java-program-to-implement-final-class-and-final-method)
+[25. Write a Java Program to implement final class and final method.](#25-write-a-java-program-to-implement-final-class-and-final-method)
 
-[26. Write a Java Program to implement abstract class and abstract method.](https://github.com/xmi1an/java#26-write-a-java-program-to-implement-abstract-class-and-abstract-method)
+[26. Write a Java Program to implement abstract class and abstract method.](#26-write-a-java-program-to-implement-abstract-class-and-abstract-method)
 
-[27. Write a java program which implements Interface.](https://github.com/xmi1an/java#27-write-a-java-program-which-implements-interface)
+[27. Write a java program which implements Interface.](#27-write-a-java-program-which-implements-interface)
 
-[28. Write a java program which implements Multiple Interfaces.](https://github.com/xmi1an/java#28-write-a-java-program-which-implements-multiple-interfaces)
+[28. Write a java program which implements Multiple Interfaces.](#28-write-a-java-program-which-implements-multiple-interfaces)
 
-[29. Write a java program which shows importing of classes from other packages.](https://github.com/xmi1an/java#29-write-a-java-program-which-shows-importing-of-classes-from-other-packages)
+[29. Write a java program which shows importing of classes from other packages.](#29-write-a-java-program-which-shows-importing-of-classes-from-other-packages)
 
-[30. Write a Java Program to implement the methods of Math Class.](https://github.com/xmi1an/java#30-write-a-java-program-to-implement-the-methods-of-math-class)
+[30. Write a Java Program to implement the methods of Math Class.](#30-write-a-java-program-to-implement-the-methods-of-math-class)
 
-[31. Write a Java Program to implement the methods of String Class.](https://github.com/xmi1an/java#31-write-a-java-program-to-implement-the-methods-of-string-class)
+[31. Write a Java Program to implement the methods of String Class.](#31-write-a-java-program-to-implement-the-methods-of-string-class)
 
-[32. Write a Java Program to implement the methods of Vector Class.](https://github.com/xmi1an/java#32-write-a-java-program-to-implement-the-methods-of-vector-class)
+[32. Write a Java Program to implement the methods of Vector Class.](#32-write-a-java-program-to-implement-the-methods-of-vector-class)
 
-[33. Write a Java Program to implement the methods of Stack Class.](https://github.com/xmi1an/java#33-write-a-java-program-to-implement-the-methods-of-stack-class)
+[33. Write a Java Program to implement the methods of Stack Class.](#33-write-a-java-program-to-implement-the-methods-of-stack-class)
 
-[34. Write a Java Program which will read a text and count all occurrences of a particular word.](https://github.com/xmi1an/java#34-write-a-java-program-which-will-read-a-text-and-count-all-occurrences-of-a-particular-word)
+[34. Write a Java Program which will read a text and count all occurrences of a particular word.](#34-write-a-java-program-which-will-read-a-text-and-count-all-occurrences-of-a-particular-word)
 
-[35. Write a Java Program which will read a string and rewrite it in the alphabetical order. eg.The word “STRING” should be written a “GINRST”.](https://github.com/xmi1an/java#35-write-a-java-program-which-will-read-a-string-and-rewrite-it-in-the-alphabetical-order-egthe-word-string-should-be-written-a-ginrst)
+[35. Write a Java Program which will read a string and rewrite it in the alphabetical order. eg.The word “STRING” should be written a “GINRST”.](#35-write-a-java-program-which-will-read-a-string-and-rewrite-it-in-the-alphabetical-order-egthe-word-string-should-be-written-a-ginrst)
 
-[36. Write a java program which creates threads using the Thread Class.](https://github.com/xmi1an/java#36-write-a-java-program-which-creates-threads-using-the-thread-class)
+[36. Write a java program which creates threads using the Thread Class.](#36-write-a-java-program-which-creates-threads-using-the-thread-class)
 
-[37. Write a java program which shows the use of yield(), stop() and sleep() Methods.](https://github.com/xmi1an/java#37-write-a-java-program-which-shows-the-use-of-yield-stop-and-sleep-methods)
+[37. Write a java program which shows the use of yield(), stop() and sleep() Methods.](#37-write-a-java-program-which-shows-the-use-of-yield-stop-and-sleep-methods)
 
-[38. Write a java program which shows the Priority in Threads.](https://github.com/xmi1an/java#38-write-a-java-program-which-shows-the-priority-in-threads)
+[38. Write a java program which shows the Priority in Threads.](#38-write-a-java-program-which-shows-the-priority-in-threads)
 
-[39. Write a java program which use of Runnable Interface.](https://github.com/xmi1an/java#39-write-a-java-program-which-use-of-runnable-interface)
+[39. Write a java program which use of Runnable Interface.](#39-write-a-java-program-which-use-of-runnable-interface)
 
-[40. Write a java program which uses try and catch for Exception Handling.](https://github.com/xmi1an/java#40-write-a-java-program-which-uses-try-and-catch-for-exception-handling)
+[40. Write a java program which uses try and catch for Exception Handling.](#40-write-a-java-program-which-uses-try-and-catch-for-exception-handling)
 
-[41. Write a java program which uses Multiple catch Blocks.](https://github.com/xmi1an/java#41-write-a-java-program-which-uses-multiple-catch-blocks)
+[41. Write a java program which uses Multiple catch Blocks.](#41-write-a-java-program-which-uses-multiple-catch-blocks)
 
-[42. Write a java program which uses finally Statement.](https://github.com/xmi1an/java#42-write-a-java-program-which-uses-finally-statement)
+[42. Write a java program which uses finally Statement.](#42-write-a-java-program-which-uses-finally-statement)
 
-[43. Write a java program which uses Nested try Statements.](https://github.com/xmi1an/java#43-write-a-java-program-which-uses-nested-try-statements)
+[43. Write a java program which uses Nested try Statements.](#43-write-a-java-program-which-uses-nested-try-statements)
 
-[44. Write a java program which shows throwing our own Exception.](https://github.com/xmi1an/java#44-write-a-java-program-which-shows-throwing-our-own-exception)
+[44. Write a java program which shows throwing our own Exception.](#44-write-a-java-program-which-shows-throwing-our-own-exception)
 
-[45. Create an Applet program that print Hello Applet.](https://github.com/xmi1an/java#45-create-an-applet-program-that-print-hello-applet)
+[45. Create an Applet program that print Hello Applet.](#45-create-an-applet-program-that-print-hello-applet)
 
-[46. Create an applet that use init(),start(),stop() and destroy() methods of applet.](https://github.com/xmi1an/java#46-create-an-applet-that-use-initstartstop-and-destroy-methods-of-applet)
+[46. Create an applet that use init(),start(),stop() and destroy() methods of applet.](#46-create-an-applet-that-use-initstartstop-and-destroy-methods-of-applet)
 
-[47. write an applet program to implement the concept of passing parameter to applet.](https://github.com/xmi1an/java#47-write-an-applet-program-to-implement-the-concept-of-passing-parameter-to-applet)
+[47. write an applet program to implement the concept of passing parameter to applet.](#47-write-an-applet-program-to-implement-the-concept-of-passing-parameter-to-applet)
 
-[48. Write a applet program to implement various methods of Graphics class.](https://github.com/xmi1an/java#47-write-an-applet-program-to-implement-the-concept-of-passing-parameter-to-applet)
+[48. Write a applet program to implement various methods of Graphics class.](#47-write-an-applet-program-to-implement-the-concept-of-passing-parameter-to-applet)
 
 ---
 
